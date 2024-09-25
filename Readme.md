@@ -8,6 +8,10 @@ Bem-vindo(a) ao repositório do **Jogo da Forca**! Este projeto foi desenvolvido
 - **Desafiar seu vocabulário**: Quanto mais palavras você acertar, melhor ficará no jogo!
 - **Divertir-se**: Afinal, a ideia principal é praticar programação enquanto se diverte com um clássico jogo de adivinhação.
 
+<p align="center">
+  <img src="img/JogoDaForca.PNG" alt="Imagem centralizada" width="800">
+</p>
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML**: Estrutura do jogo.
