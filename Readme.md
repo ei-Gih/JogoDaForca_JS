@@ -28,7 +28,7 @@ Agradecimentos especiais ao canal **Agnaldo Guimarães** por servir como inspira
 
 ## 🔗 Repositório
 
-Confira o código completo do projeto [aqui no GitHub](https://jogo-da-forca-gih.netlify.app).
+Confira o código completo do projeto [aqui no GitHub](https://ei-gih.github.io/JogoDaForca_JS/).
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para explorar, sugerir melhorias ou até mesmo colaborar! 😊
 <p align="right">
